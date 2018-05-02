@@ -1,0 +1,8 @@
+{
+    "require": {
+        "robmorgan/phinx" : "*",
+        "slim/slim" : "*",
+        "slim/php-view": "^2.0",
+
+    }
+}
